@@ -42,7 +42,7 @@
     
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://miro.medium.com/max/375/1*GQ3Y3hoBqEylWpW4ZX9lHw.png" alt="Net MVC" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2015/12/asp.net_.mvc_.png" alt="Net MVC" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="NetCore" height="40" style="vertical-align:top; margin:4px">
  
