@@ -18,6 +18,7 @@
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <img src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" height="40">
 </p>
 
 <br />
@@ -50,7 +51,7 @@
  
 <img src="https://akademi.bilgeadam.com/wp-content/uploads/2021/11/Xamarin-5-340x200.png" alt="Xamarin" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Sql" height="40" style="vertical-align:top; margin:4px">
+<img src="https://blog.trdesigner.net/wp-content/uploads/logoAzureSql.png" alt="Sql" height="40" style="vertical-align:top; margin:4px">
  
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostreSQL" height="40" style="vertical-align:top; margin:4px">
 
@@ -70,6 +71,6 @@
  
  <img src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" alt="Jira" height="40" style="vertical-align:top; margin:4px">
  
- <img src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
  
 </p>
