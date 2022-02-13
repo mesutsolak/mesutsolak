@@ -29,17 +29,17 @@
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Boostrap" height="40"  style="vertical-align:top; margin:4px">  
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Boostrap" height="45"  style="vertical-align:top; margin:4px">  
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jquery" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" alt="jquery" height="40" style="vertical-align:top; margin:4px">
  
  <img src="https://bertanuzun.com/wp-content/uploads/2019/02/ajax.png" alt="ajax" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
  
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="45" style="vertical-align:top; margin:4px">
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px">
     
@@ -50,6 +50,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="NetCore" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://akademi.bilgeadam.com/wp-content/uploads/2021/11/Xamarin-5-340x200.png" alt="Xamarin" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://miro.medium.com/max/745/1*q223Ml7emD6RKgZaiqnW8Q.png" alt="Prism" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://blog.trdesigner.net/wp-content/uploads/logoAzureSql.png" alt="Sql" height="40" style="vertical-align:top; margin:4px">
  
