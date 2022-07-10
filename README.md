@@ -1,7 +1,7 @@
 <p align="start">
-<img src="https://monophy.com/media/mFGAiMpaBMxytdVHbM/monophy.gif" width="250"> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="330"> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/gist/tima1702/76713856a2d923a8bfe6591744717d63/raw/3b3693c94ffcf914a2710b80963e08eea98bbcbb/about-me.gif" width="250">
+<img src="https://monophy.com/media/mFGAiMpaBMxytdVHbM/monophy.gif" width="230"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="310"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/gist/tima1702/76713856a2d923a8bfe6591744717d63/raw/3b3693c94ffcf914a2710b80963e08eea98bbcbb/about-me.gif" width="230">
 </p>
 
 # Hi there 👋 I'm Mesut Solak
