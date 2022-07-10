@@ -18,11 +18,11 @@
  <a href="https://www.linkedin.com/in/mesuttsolak/" target="_blank" rel="noopener noreferrer">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="35">
  </a>
- &nbsp;&nbsp;
+ &nbsp;&nbsp; &nbsp;
  <a href="https://mesuttsolak.medium.com/" target="_blank" rel="noopener noreferrer"> 
- <img src="https://webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="Medium" height="40">
+ <img src="https://webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="Medium" height="35">
  </a>
- &nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;
  <a href="mailto:mesuttsolakk@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail" height="35">
  </a>
  &nbsp;&nbsp;
@@ -34,11 +34,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="40" alt="Instagram">
   </a>
     &nbsp;&nbsp;
- <a href="https://youtube.com/mesutsolak">
+ <a href="https://www.youtube.com/channel/UCBLaLYvrpK_YGljpTTqf20w">
    <img src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-youtube-4555888_121363.png" alt="Python" height="40" alt="Youtube">
  </a>
    &nbsp;&nbsp;
-   <a href="https://www.youtube.com/channel/UCBLaLYvrpK_YGljpTTqf20w"> 
+   <a href="https://open.spotify.com/user/vqtjfqcqvdejtouk0jighlocm?si=2a90df6d9c5741ce&nd=1"> 
 
  <img src="https://camo.githubusercontent.com/c7242d94c7443a087542938b51c1cb84ee4a99cc1c3264f68c5dcf48535c776f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5572593742415a2d5866584770666b655767307a4343656f2d377261733444436f52616c435f57585857544b3971356230497737423059514d7356785a614e4237444d" height="40" alt="Spotify">
  </a>
