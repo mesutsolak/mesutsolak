@@ -1,18 +1,16 @@
-### Hi there 👋
+# Hi there 👋 I'm Mesut Solak
 
+## Software Developer , Student , Keen to learn
 
+What am I dealing with ?
 
-- 🔭 I’m currently working on .Net and Xamarin
-- 🌱 I’m currently learning .Net Core and Vue js
-- 👯 I’m looking to collaborate on Vue js
-- 🤔 I’m looking for help with Gulp js 
-- 💬 Ask me about Software Developer
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on .Net Core and Xamarin
+- 🌱 I’m currently learning .Net 6 and Vue 
+- 🌱 I’m currently learning Identity and OpenId
+- 👯 I’m looking to collaborate on Vue
+- 💬 Ask me about .Net , Xamarin , Vue
 
 ## ✉️ Find me on:
-
 
 <p align="start">
  <a href="https://www.linkedin.com/in/mesuttsolak/" target="_blank" rel="noopener noreferrer">
