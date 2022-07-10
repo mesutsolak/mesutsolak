@@ -15,10 +15,33 @@
 
 
 <p align="start">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <img src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" height="40">
+ <a href="https://www.linkedin.com/in/mesuttsolak/" target="_blank" rel="noopener noreferrer">
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="35">
+ </a>
+ &nbsp;&nbsp;
+ <a href="https://mesuttsolak.medium.com/" target="_blank" rel="noopener noreferrer"> 
+ <img src="https://webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="Medium" height="40">
+ </a>
+ &nbsp;&nbsp;
+ <a href="mailto:mesuttsolakk@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail" height="35">
+ </a>
+ &nbsp;&nbsp;
+   <a href="https://twitter.com/mesuttsolak"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png" alt="Twitter" height="35">
+ </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mesutsolakk/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="40" alt="Instagram">
+  </a>
+    &nbsp;&nbsp;
+ <a href="https://youtube.com/mesutsolak">
+   <img src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-youtube-4555888_121363.png" alt="Python" height="40" alt="Youtube">
+ </a>
+   &nbsp;&nbsp;
+   <a href="https://www.youtube.com/channel/UCBLaLYvrpK_YGljpTTqf20w"> 
+
+ <img src="https://camo.githubusercontent.com/c7242d94c7443a087542938b51c1cb84ee4a99cc1c3264f68c5dcf48535c776f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5572593742415a2d5866584770666b655767307a4343656f2d377261733444436f52616c435f57585857544b3971356230497737423059514d7356785a614e4237444d" height="40" alt="Spotify">
+ </a>
 </p>
 
 <br />
